@@ -25,7 +25,7 @@ train.py;
     runs WineQualityClassifier based on user input metrics.
     returns loss w/ epoch count to verify learning & optimization.
 
-IF MOVING ON WITH THIS PROJECT; NEXT STEP SUGGESTIONS:
+[task list if moving on]:
 Evaluate a model's accuracy on Validation and/or Test Set
 
 
